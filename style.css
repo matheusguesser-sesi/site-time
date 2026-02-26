@@ -1,9 +1,10 @@
 #icon {
-    height: 62px;
+    height: 120px;
 }
 
 body {
     margin: 0;
+    background-color: rgb(223, 220, 220);
 }
 
 nav {
@@ -11,7 +12,38 @@ nav {
     align-items: center;
     justify-content: space-around;
 
-    background-color: rgb(243, 241, 241);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#noticias{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    margin: 40px;
+    color: white;
+    
+}
+
+.noticia {
+    background-color: black;
+    border: 5px solid rgb(90, 83, 83) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.img_noticia {
+    height: 300px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
