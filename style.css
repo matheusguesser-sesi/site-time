@@ -47,3 +47,84 @@ footer {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.escalacao{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    margin: 40px;
+    color: white;
+    
+}
+
+#titulo_escalacao {
+    text-align: center;
+    background-color: gray;
+    display: inline-flexbox;
+}
+
+.goleiro {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.img_goleiro {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_zagueiro1 {
+    height: 100px;
+    margin-right: ;
+
+}
+.img_zagueiro2 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_lateral1 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_lateral2 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_volante1 {
+    height: 100px;
+    margin-left: 10000%;
+
+}
+.img_volante2 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_volante3 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_atacante1 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_atacante2 {
+    height: 100px;
+    margin-left: 13%;
+
+}
+.img_atacante3 {
+    height: 100px;
+    margin-left: 13%;
+
+}
