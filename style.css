@@ -63,6 +63,124 @@ footer {
     display: inline-flexbox;
 }
 
+#alberto{
+    right: 0px;
+    bottom: -2px;
+    position: fixed;
+    height: 150px;
+    width: 200px;
+}
+
+.goleiro {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.zagueiro1 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.zagueiro2 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.lateral1 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.lateral2 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.volante1 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.volante2 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.volante3 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.atacante1 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.atacante2 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.atacante3 {
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(0, 0, 0) ;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
 .goleiro {
     background-color: rgb(0, 0, 0);
     border: 5px solid rgb(0, 0, 0) ;
@@ -74,57 +192,47 @@ footer {
 }
 
 .img_goleiro {
-    height: 100px;
+    height: 80px;
     margin-left: 13%;
 
 }
 .img_zagueiro1 {
-    height: 100px;
-    margin-right: ;
+    height: 80px;
 
 }
 .img_zagueiro2 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_lateral1 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_lateral2 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_volante1 {
-    height: 100px;
-    margin-left: 10000%;
+    height: 80px;
 
 }
 .img_volante2 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_volante3 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_atacante1 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_atacante2 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
 .img_atacante3 {
-    height: 100px;
-    margin-left: 13%;
+    height: 80px;
 
 }
